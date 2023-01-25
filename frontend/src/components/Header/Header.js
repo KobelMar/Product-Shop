@@ -5,7 +5,7 @@ import './Header.css';
 const Header = () => {
   return (
     <header className="header">
-      <h1>Product Shop</h1>
+      <h1>Product Shopp</h1>
     </header>
   );
 };
